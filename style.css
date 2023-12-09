@@ -132,3 +132,30 @@
 .card img {
     width: 80px;
 }
+
+.razoes {
+    display: flex;
+}
+
+.razoes .row.img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.razoes .row p {
+    text-align: justify;
+}
+
+.razoes .row p span.azul {
+    font-weight: 700;
+    color: #2f4ccc;
+}
+.razoes .row p span.azul-claro {
+    font-weight: 700;
+    color: #2f9fcc;
+}
+.razoes .row p span.verde {
+    font-weight: 700;
+    color: #2fccaa;
+}
