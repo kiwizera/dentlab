@@ -214,6 +214,10 @@
     align-items: flex-end;
 }
 
+#profissionals .row.img img {
+    width: 550px;
+}
+
 #profissionals .row h2 {
     font-size: 30px;
 }
