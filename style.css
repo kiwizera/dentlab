@@ -49,9 +49,10 @@
     font-weight: 300;
     cursor: pointer;
     color: #3d2541;
+    border-radius: 8px;
 }
 
-.menu ul li.login {
+.menu ul li.especialista {
     color: #2f00ff;
 }
 
