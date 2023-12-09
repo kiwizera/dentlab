@@ -191,3 +191,22 @@
     position: static;
     width: 95vw;
 }
+
+#profissionals {
+    width: 95vw;
+    background-color: rgba(0, 255, 239, 0.1);
+}
+
+#profissionals .row {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+#profissionals .row.img {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
