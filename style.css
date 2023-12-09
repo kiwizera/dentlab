@@ -143,8 +143,13 @@
     align-items: center;
 }
 
+.razoes .row h2 {
+    font-size: 30px;
+}
+
 .razoes .row p {
     text-align: justify;
+    font-size: 22px;
 }
 
 .razoes .row p span.azul {
