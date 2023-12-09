@@ -13,6 +13,12 @@
     padding: 10px 0;
 }
 
+#header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 .logo {
     display: flex;
     justify-content: center;
@@ -45,11 +51,11 @@
     color: #3d2541;
 }
 
-.menu ul li#login {
+.menu ul li.login {
     color: #2f00ff;
 }
 
-.menu ul li#login {
+.menu ul li.login {
     background-color: #00aeff;
     color: #FFF;
 }
