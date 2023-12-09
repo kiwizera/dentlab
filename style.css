@@ -3,3 +3,28 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.container {
+    max-width: 1168px;
+    margin: 0 auto;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.logo img {
+    width: 40px;
+    height: 40px;
+}
+
+.logo h1 {
+    font-weight: 700;
+}
+
+.logo h1 span {
+    color: darkorchid;
+}
