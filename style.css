@@ -227,6 +227,7 @@
 }
 
 footer#footer {
+    margin-top: 30px;
     background-color: #091d40;
     color: #FFF;
 }
@@ -245,7 +246,7 @@ footer#footer .container {
 .brand {
     display: flex;
     flex-direction: column;
-    align-items: stretch;
+    justify-content: space-between;
 }
 
 .top .logo h1 {
