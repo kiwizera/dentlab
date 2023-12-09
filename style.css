@@ -107,6 +107,10 @@
     border: none;
 }
 
+#razoes {
+    padding-bottom: 40px;
+}
+
 .cards {
     position: relative;
     display: flex;
