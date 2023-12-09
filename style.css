@@ -5,7 +5,7 @@
 }
 
 .container {
-    max-width: 1168px;
+    max-width: 1400px;
     margin: 0 auto;
 }
 
@@ -57,6 +57,37 @@
 }
 
 .menu ul li.login {
+    background-color: #00aeff;
+    color: #FFF;
+}
+
+#hero .container {
+    display: flex;
+    justify-content: space-between;
+    height: 650px;
+}
+
+#hero .container .row {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 10px;
+}
+
+#hero .container .row.img {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+#button-primary {
+    padding: 10px 15px;
+    border-radius: 8px;
+    cursor: pointer;
     background-color: #00aeff;
     color: #FFF;
 }
