@@ -165,3 +165,7 @@
     font-weight: 700;
     color: #2fccaa;
 }
+
+.services .cards {
+    position: static;
+}
