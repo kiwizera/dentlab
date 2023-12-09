@@ -177,4 +177,5 @@
 
 .services .cards {
     position: static;
+    width: 95vw;
 }
